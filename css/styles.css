@@ -93,14 +93,15 @@ footer a .icons {
   justify-content: center;
 }
 
-/*.periodic-element {
+.periodic-element {
   padding: 4px;
   position: relative;
   z-index: 1;
   cursor: default;
   transition: all 0.3s ease;
 }
-.periodic-element .periodic-element-inner {
+
+/*.periodic-element .periodic-element-inner {
   background: #202e38;
   padding: 10px 15px;
   width: calc(100% - 30px);
