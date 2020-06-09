@@ -144,10 +144,11 @@ footer a .icons {
   z-index: 10;
 }
 
-/*.periodic-element:hover .periodic-element-inner {
+.periodic-element:hover .periodic-element-inner {
   background: transparent;
 }
-.periodic-element:hover .title,
+
+/*.periodic-element:hover .title,
 .periodic-element:hover .description {
   -webkit-text-fill-color: #222;
 }
