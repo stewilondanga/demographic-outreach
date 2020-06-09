@@ -60,7 +60,7 @@ footer {
   width: 100%;
 }
 
-/*footer a {
+footer a {
   text-decoration: none;
   display: inline-block;
   width: 45px;
@@ -71,7 +71,8 @@ footer {
   color: #fff;
   margin: 5px;
 }
-footer a:hover {
+
+/*footer a:hover {
   background: rgba(255, 255, 255, 0.1);
 }
 footer a .icons {
