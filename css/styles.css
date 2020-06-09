@@ -188,14 +188,14 @@ a.periodic-element {
   background: linear-gradient(to bottom right, #37cfdc 0%, #5a88e5 100%);
 }
 
-/*.just-trying .title,
+.just-trying .title,
 .just-trying .description {
   background: -webkit-linear-gradient(#37cfdc, #5a88e5);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-.intense-work {
+/*.intense-work {
   background: linear-gradient(to bottom right, #58ac30 0%, #a7df62 100%);
 }
 .intense-work .title,
