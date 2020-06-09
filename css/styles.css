@@ -115,11 +115,12 @@ footer a .icons {
   transition: 0.8s ease 600ms;
 }
 
-/*.periodic-element .description {
+.periodic-element .description {
   font: 500 12px "Poppins", sans-serif;
   margin-top: -0.2em;
 }
-.periodic-element:after {
+
+/*.periodic-element:after {
   z-index: 10;
   content: attr(data-description);
   background: #f9f8f7;
