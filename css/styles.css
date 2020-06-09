@@ -16,6 +16,7 @@ body {
 
 .my_social a img {
   height: 1.5em;
+  background-color: grey;
 }
 
 h1 {
