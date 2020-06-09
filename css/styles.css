@@ -166,14 +166,14 @@ a.periodic-element {
   background: linear-gradient(to bottom right, #f3f9a6 0%, #cbc634 100%);
 }
 
-/*.social-media .title,
+.social-media .title,
 .social-media .description {
   background: -webkit-linear-gradient(#f3f9a6, #cbc634);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-.fun-stuff {
+/*.fun-stuff {
   background: linear-gradient(to bottom right, #ff616d 0%, #ffc171 100%);
 }
 .fun-stuff .title,
