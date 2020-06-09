@@ -139,11 +139,12 @@ footer a .icons {
   text-align: center;
 }
 
-/*.periodic-element:hover {
+.periodic-element:hover {
   transform: scale(1.12);
   z-index: 10;
 }
-.periodic-element:hover .periodic-element-inner {
+
+/*.periodic-element:hover .periodic-element-inner {
   background: transparent;
 }
 .periodic-element:hover .title,
