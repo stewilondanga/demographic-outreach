@@ -177,14 +177,14 @@ a.periodic-element {
   background: linear-gradient(to bottom right, #ff616d 0%, #ffc171 100%);
 }
 
-/*.fun-stuff .title,
+.fun-stuff .title,
 .fun-stuff .description {
   background: -webkit-linear-gradient(#ff616d, #ffc171);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-.just-trying {
+/*.just-trying {
   background: linear-gradient(to bottom right, #37cfdc 0%, #5a88e5 100%);
 }
 .just-trying .title,
