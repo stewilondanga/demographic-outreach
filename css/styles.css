@@ -83,7 +83,7 @@ footer a .icons {
   font-size: 20px;
 }
 
-/*.periodic-table {
+.periodic-table {
   display: grid;
   grid-template-columns: repeat(9, 100px);
   grid-template-rows: repeat(4, 100px);
@@ -93,7 +93,7 @@ footer a .icons {
   justify-content: center;
 }
 
-.periodic-element {
+/*.periodic-element {
   padding: 4px;
   position: relative;
   z-index: 1;
