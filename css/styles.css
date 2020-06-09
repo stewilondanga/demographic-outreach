@@ -162,10 +162,11 @@ a.periodic-element {
   cursor: pointer;
 }
 
-/*.social-media {
+.social-media {
   background: linear-gradient(to bottom right, #f3f9a6 0%, #cbc634 100%);
 }
-.social-media .title,
+
+/*.social-media .title,
 .social-media .description {
   background: -webkit-linear-gradient(#f3f9a6, #cbc634);
   -webkit-background-clip: text;
