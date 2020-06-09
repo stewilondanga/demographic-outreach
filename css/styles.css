@@ -231,7 +231,7 @@ a.periodic-element {
   -webkit-text-fill-color: transparent;
 }
 
-/*.legend-table__direction {
+.legend-table__direction {
   display: inline-block;
   margin: 10px 15px 10px 10px;
   background: -webkit-linear-gradient(#ccc, #eee);
@@ -239,7 +239,7 @@ a.periodic-element {
   -webkit-text-fill-color: transparent;
 }
 
-.empty-spacer-1 {
+/*.empty-spacer-1 {
   grid-column: 3 / span 4;
   grid-row: 1;
 }
