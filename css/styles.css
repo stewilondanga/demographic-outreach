@@ -173,10 +173,11 @@ a.periodic-element {
   -webkit-text-fill-color: transparent;
 }
 
-/*.fun-stuff {
+.fun-stuff {
   background: linear-gradient(to bottom right, #ff616d 0%, #ffc171 100%);
 }
-.fun-stuff .title,
+
+/*.fun-stuff .title,
 .fun-stuff .description {
   background: -webkit-linear-gradient(#ff616d, #ffc171);
   -webkit-background-clip: text;
