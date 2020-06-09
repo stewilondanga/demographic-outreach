@@ -42,13 +42,14 @@ aside.context {
   line-height: 1.7;
 }
 
-/*aside.context a {
+aside.context a {
   text-decoration: none;
   color: #fff;
   padding: 3px 0;
   border-bottom: 1px dashed;
 }
-aside.context .explanation {
+
+/*aside.context .explanation {
   max-width: 700px;
   margin: 4em auto 0;
 }
