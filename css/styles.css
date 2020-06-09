@@ -77,13 +77,13 @@ footer a:hover {
   background: rgba(255, 255, 255, 0.1);
 }
 
-/*footer a .icons {
+footer a .icons {
   margin-top: 12px;
   display: inline-block;
   font-size: 20px;
 }
 
-.periodic-table {
+/*.periodic-table {
   display: grid;
   grid-template-columns: repeat(9, 100px);
   grid-template-rows: repeat(4, 100px);
