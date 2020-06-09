@@ -206,13 +206,14 @@ a.periodic-element {
   -webkit-text-fill-color: transparent;
 }
 
-/*.legend-table {
+.legend-table {
   padding: 15px;
   text-align: center;
   font-size: 15px;
   margin: 2em auto 0;
 }
-.legend-table__marker {
+
+/*.legend-table__marker {
   width: 25px;
   height: 25px;
   margin: 5px 5px 10px;
