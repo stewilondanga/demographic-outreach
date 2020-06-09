@@ -153,12 +153,12 @@ footer a .icons {
   -webkit-text-fill-color: #222;
 }
 
-/*.periodic-element:hover:after {
+.periodic-element:hover:after {
   top: 105%;
   opacity: 1;
 }
 
-a.periodic-element {
+/*a.periodic-element {
   cursor: pointer;
 }
 
