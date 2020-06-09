@@ -148,11 +148,12 @@ footer a .icons {
   background: transparent;
 }
 
-/*.periodic-element:hover .title,
+.periodic-element:hover .title,
 .periodic-element:hover .description {
   -webkit-text-fill-color: #222;
 }
-.periodic-element:hover:after {
+
+/*.periodic-element:hover:after {
   top: 105%;
   opacity: 1;
 }
