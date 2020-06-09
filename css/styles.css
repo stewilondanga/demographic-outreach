@@ -222,7 +222,7 @@ a.periodic-element {
   box-shadow: 0.5px 1px rgba(0, 0, 0, 0.15);
 }
 
-/*.legend-table__text {
+.legend-table__text {
   display: inline-block;
   vertical-align: middle;
   margin: 0 25px 5px 5px;
@@ -230,7 +230,8 @@ a.periodic-element {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.legend-table__direction {
+
+/*.legend-table__direction {
   display: inline-block;
   margin: 10px 15px 10px 10px;
   background: -webkit-linear-gradient(#ccc, #eee);
