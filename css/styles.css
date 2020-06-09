@@ -265,7 +265,7 @@ a.periodic-element {
   margin: 0 auto;
 }
 
-/*.cal {
+.cal {
   display: inline-block;
   background: #ffe;
   color: #555;
@@ -275,7 +275,7 @@ a.periodic-element {
   transition: all 0.2s linear;
 }
 
-.cal:hover {
+/*.cal:hover {
   transform: scale(2.5);
   transition: all 0.4s linear;
 }
