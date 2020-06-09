@@ -195,10 +195,11 @@ a.periodic-element {
   -webkit-text-fill-color: transparent;
 }
 
-/*.intense-work {
+.intense-work {
   background: linear-gradient(to bottom right, #58ac30 0%, #a7df62 100%);
 }
-.intense-work .title,
+
+/*.intense-work .title,
 .intense-work .description {
   background: -webkit-linear-gradient(#58ac30, #a7df62);
   -webkit-background-clip: text;
