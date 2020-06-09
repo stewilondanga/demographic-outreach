@@ -158,11 +158,11 @@ footer a .icons {
   opacity: 1;
 }
 
-/*a.periodic-element {
+a.periodic-element {
   cursor: pointer;
 }
 
-.social-media {
+/*.social-media {
   background: linear-gradient(to bottom right, #f3f9a6 0%, #cbc634 100%);
 }
 .social-media .title,
