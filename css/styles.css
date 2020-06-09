@@ -120,7 +120,7 @@ footer a .icons {
   margin-top: -0.2em;
 }
 
-/*.periodic-element:after {
+.periodic-element:after {
   z-index: 10;
   content: attr(data-description);
   background: #f9f8f7;
@@ -138,7 +138,8 @@ footer a .icons {
   border-radius: 6px;
   text-align: center;
 }
-.periodic-element:hover {
+
+/*.periodic-element:hover {
   transform: scale(1.12);
   z-index: 10;
 }
